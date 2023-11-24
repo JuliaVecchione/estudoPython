@@ -1,0 +1,6 @@
+nome = input('qual seu nome?')
+idade = input('qual sua idade?')
+peso = input('quanto voçê pesa?')
+print (nome, idade, peso)
+nome = input('digire seu nome para podermos continuar ')
+print ('Ola', nome+'!', "o clima está no ideial para aprender python!")
