@@ -1,0 +1,6 @@
+dia=input("qual dia vc nasceu?")
+mes=input('qual mês vc nasceu?')
+ano=input('qual ano vc nasceu?')
+print('você nasceu', dia+'/'+mes+'/'+ano+'/', 'e faz aniversário', dia+'/'+mes)
+sim=input('correto?')
+print (' c:')
